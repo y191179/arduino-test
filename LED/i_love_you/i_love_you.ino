@@ -10,6 +10,18 @@ void off() {
   digitalWrite(LED_BUILTIN, LOW);
 }
 
+void dot() {
+
+}
+
+void line() {
+
+}
+
+void long_pause() {
+
+}
+
 void loop() {
   on();
   delay(500);
